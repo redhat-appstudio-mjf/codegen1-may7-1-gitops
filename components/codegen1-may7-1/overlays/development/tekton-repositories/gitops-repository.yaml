@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: codegen1-may7-1-gitops-repository
+spec:
+  url: https://github.com/redhat-appstudio-mjf/codegen1-may7-1-gitops
